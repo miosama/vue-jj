@@ -69,6 +69,10 @@ node server.js
 ### 首页 | 分享文章 | 文章详情 
 
 ![首页](https://github.com/miosama/vue-jj/blob/master/screenshots/首页.png)
-![home](https://github.com/miosama/vue-jj/blob/master/screenshots/home.png)
+![分享文章](https://github.com/miosama/vue-jj/blob/master/screenshots/分享文章.png)
+![文章详情](https://github.com/miosama/vue-jj/blob/master/screenshots/文章详情.png)
+
+
+<img src="https://github.com/miosama/vue-jj/blob/master/screenshots/首页.png" width="280" height="560"/> <img src="https://github.com/miosama/vue-jj/blob/master/screenshots/分享文章.png" width="280" height="560"/> <img src="https://github.com/miosama/vue-jj/blob/master/screenshots/文章详情.png" width="280" height="560"/>
 
 
