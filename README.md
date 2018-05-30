@@ -52,17 +52,17 @@ node server.js
 
 ## 部分截图
 ### 首页 | 我 
-<img src="https://github.com/miosama/vue-jj/blob/master/screenshots/首页.png" width="365" height="619"/> <img src="https://github.com/miosama/vue-jj/blob/master/screenshots/我 .png" width="365" height="619"/>
+<img src="https://github.com/miosama/vue-jj/blob/master/screenshots/首页.png" width="365" height="760"/> <img src="https://github.com/miosama/vue-jj/blob/master/screenshots/我.png" width="365" height="760"/>
 
 ### 分享文章 | 文章详情 
-<img src="https://github.com/miosama/vue-jj/blob/master/screenshots/分享文章.png" width="365" height="619"/> <img src="https://github.com/miosama/vue-jj/blob/master/screenshots/文章详情.png" width="365" height="619"/>
+<img src="https://github.com/miosama/vue-jj/blob/master/screenshots/分享文章.png" width="365" height="760"/> <img src="https://github.com/miosama/vue-jj/blob/master/screenshots/文章详情.png" width="365" height="760"/>
 
 ### 沸点 | 沸点详情 
-<img src="https://github.com/miosama/vue-jj/blob/master/screenshots/沸点.png" width="365" height="619"/> <img src="https://github.com/miosama/vue-jj/blob/master/screenshots/沸点详情.png" width="365" height="619"/>
+<img src="https://github.com/miosama/vue-jj/blob/master/screenshots/沸点.png" width="365" height="760"/> <img src="https://github.com/miosama/vue-jj/blob/master/screenshots/沸点详情.png" width="365" height="760"/>
 
 ### 搜索 | 搜索列表
-<img src="https://github.com/miosama/vue-jj/blob/master/screenshots/搜索.png" width="365" height="619"/> <img src="https://github.com/miosama/vue-jj/blob/master/screenshots/搜索列表.png" width="365" height="619"/>
+<img src="https://github.com/miosama/vue-jj/blob/master/screenshots/搜索.png" width="365" height="760"/> <img src="https://github.com/miosama/vue-jj/blob/master/screenshots/搜索列表.png" width="365" height="760"/>
 
 ### 个人主页 | 编辑个人信息 
-<img src="https://github.com/miosama/vue-jj/blob/master/screenshots/个人主页.png" width="365" height="619"/> <img src="https://github.com/miosama/vue-jj/blob/master/screenshots/编辑个人信息.png" width="365" height="619"/>
+<img src="https://github.com/miosama/vue-jj/blob/master/screenshots/个人主页.png" width="365" height="760"/> <img src="https://github.com/miosama/vue-jj/blob/master/screenshots/编辑个人信息.png" width="365" height="760"/>
 
