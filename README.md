@@ -68,12 +68,7 @@ node server.js
 
 ### 首页 | 分享文章 | 文章详情 
 
-<img src="https://github.com/miosama/vue-jj/tree/master/screenshots/首页.png" width="240" height="619"/>
-<img src="https://github.com/miosama/vue-jj/tree/master/screenshots/分享文章.png" width="240" height="619"/>
-<img src="https://github.com/miosama/vue-jj/tree/master/screenshots/文章详情.png" width="240" height="619"/>
+![首页](https://github.com/miosama/vue-jj/tree/master/screenshots/首页.png)
+![home](https://github.com/miosama/vue-jj/tree/master/screenshots/home.png)
 
-### 沸点 | 沸点详情 
-
-<img src="https://github.com/miosama/vue-jj/tree/master/screenshots/沸点.png" width="365" height="619"/>
-<img src="https://github.com/miosama/vue-jj/tree/master/screenshots/沸点详情.png" width="365" height="619"/>
 
