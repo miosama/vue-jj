@@ -68,7 +68,7 @@ node server.js
 
 ### 首页 | 分享文章 | 文章详情 
 
-![首页](https://github.com/miosama/vue-jj/tree/master/screenshots/首页.png)
-![home](https://github.com/miosama/vue-jj/tree/master/screenshots/home.png)
+![首页](https://github.com/miosama/vue-jj/blob/master/screenshots/首页.png)
+![home](https://github.com/miosama/vue-jj/blob/master/screenshots/home.png)
 
 
