@@ -1,0 +1,45 @@
+/**
+ * color
+ */
+ @blue:#007FFF;
+ @blue-shallow:#A0CFFF;
+ @border-deep:#eee;
+ @border-shallow:#fafafa;
+ @font-head:#fff;
+ @font-sub:#A2AFBB;
+ @font-title:rgba(220, 220, 220, 0.7);
+ @font-intro:#2B5D8D;
+ @font-common:#333;
+ @body-background:#fafafa;
+ @content-background:#fff;
+ @focus:#50b674;
+ @praise:#50b674;
+ /**
+  * font-size
+  */
+ @fs12:12px;
+ @fs14:14px;
+ @fs16:16px;
+ @fs18:18px;
+ @fs-large:32px;
+ /**
+  * other
+  */
+ @header-height:44px;
+ @footer-height:50px;
+
+.movelayout{
+  position: fixed;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  z-index: 1;
+  width: 100%;
+  background: @content-background;
+  &.move-enter-active, &.move-leave-active{
+    transition: all 0.2s linear
+  };
+  &.move-enter, &.move-leave-active{
+    transform: translate3d(50%, 0, 0);
+  };
+}
