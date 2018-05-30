@@ -38,12 +38,14 @@ node server.js
 * 欢迎"Star","follow"
 * 开发环境 win10, vscode, chrome, node8.10.0
 * 感谢[@bailicangdu](https://github.com/bailicangdu/vue2-elm)开源的vue2-elm项目，从中学到不少东西
-* 未完成的功能和说明
- * 不能对评论进行点赞评论
- * 不能社交媒体分享
- * 不能定制热门
- * 搜索页的轮播图以及下面四个按钮点击无反应
- * "我"页面的"意见反馈"和"设置"点击无反应
+
+
+## 未完成的功能和说明
+* 不能对评论进行点赞评论
+* 不能社交媒体分享
+* 不能定制热门
+* 搜索页的轮播图以及下面四个按钮点击无反应
+* "我"页面的"意见反馈"和"设置"点击无反应
 
 
 
@@ -55,16 +57,23 @@ node server.js
 
 ## TODO
 * 优化页面加载
-* 尝试优化移动端的界面
-* 尝试使用SSR重构
-* 尝试完成未完成功能
+* 优化移动端的界面
+* 使用SSR重构
+* 完成未完成功能
 
 
 
 ## 部分截图
 
 
-### 首页
+### 首页 | 分享文章 | 文章详情 
 
-<img src="https://github.com/bailicangdu/vue2-elm/blob/master/screenshots/msite.png" width="365" height="619"/>
+<img src="https://github.com/miosama/vue-jj/tree/master/screenshots/首页.png" width="240" height="619"/>
+<img src="https://github.com/miosama/vue-jj/tree/master/screenshots/分享文章.png" width="240" height="619"/>
+<img src="https://github.com/miosama/vue-jj/tree/master/screenshots/文章详情.png" width="240" height="619"/>
+
+### 沸点 | 沸点详情 
+
+<img src="https://github.com/miosama/vue-jj/tree/master/screenshots/沸点.png" width="365" height="619"/>
+<img src="https://github.com/miosama/vue-jj/tree/master/screenshots/沸点详情.png" width="365" height="619"/>
 
