@@ -12,7 +12,7 @@ vue2 + vuex + vue-router + webpack + ES6 + less + flex
 
 ## 项目运行
 ```
-git clone https://github.com/bailicangdu/vue2-elm.git  
+git clone git@github.com:miosama/vue-jj.git
 
 cd vue-jj
 
